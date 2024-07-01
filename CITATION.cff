@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Zheng"
+  given-names: "Zhu’anzhen"
+  orcid: "https://orcid.org/0009-0007-6109-6172"
+- family-names: "Wu"
+  given-names: "Zhihua"
+  orcid: "https://orcid.org/0000-0002-6761-2007"
+title: "MatLab implementation of EMD-based object detection model"
+version: 1.0.0
+doi: 10.5281/zenodo.12604800
+date-released: 2024-06-25
+url: "https://github.com/sapid2021wu/bioinspired_BG_subtraction"
